@@ -3,7 +3,7 @@ window.__CONFIG__ = {
   VITE_CORS_PROXY_URL: https://simple-proxy.09sharkboyroger.workers.dev
 
   // The READ API key to access TMDB
-  VITE_TMDB_READ_API_KEY: eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiJmNGMwYzQ2MzMzMTM0YmQzOGFlMDA4OTMwOTIyY2UxNyIsInN1YiI6IjY0ZmQ1NTBjZmZjOWRlMGVkZWQyYzk2ZiIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.WO_vj_dL-FvHj5ARGXD_p2zxMiTox4YrEj7b_rlpeHM
+  VITE_TMDB_READ_API_KEY: eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiJkMmQ1MGJmNjFiOTU5ZDBiNmM5ZmRmZTAxYWU5NDFlOSIsInN1YiI6IjY0ZmQ1NTBjZmZjOWRlMGVkZWQyYzk2ZiIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.hl8UAYO1Mt9DU8sKjv7x7QGU4oHs9j-V3_eD1nO43BM
 
   // The DMCA email displayed in the footer, null to hide the DMCA link
   VITE_DMCA_EMAIL: null,
